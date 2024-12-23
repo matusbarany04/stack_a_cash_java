@@ -49,12 +49,12 @@ public class StackACashEngine {
         }
 
         // Check rows
-        for (int y = 0; y < height; y++) {
+        for (Cell[] cell : cells) {
             boolean rowWinner = true;
-            if(!cells[y][0].hasCoin()) continue;
-            Coin first = cells[y][0].atTop(); // Top coin in the first cell of the row
+            if (!cell[0].hasCoin()) continue;
+            Coin first = cell[0].atTop(); // Top coin in the first cell of the row
             for (int x = 1; x < width; x++) {
-                Coin coin = cells[y][x].atTop();
+                Coin coin = cell[x].atTop();
                 if (coin == null || coin.getSide() != first.getSide()) {
                     rowWinner = false;
                     break;

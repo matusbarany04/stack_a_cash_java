@@ -2,8 +2,8 @@ package engine;
 
 public class Tuple2<K, V> {
 
-    private K first;
-    private V second;
+    private final K first;
+    private final V second;
 
     public Tuple2(K first, V second){
         this.first = first;
