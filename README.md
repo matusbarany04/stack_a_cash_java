@@ -1,6 +1,6 @@
 # Stack-a-Cash
 
-Stack-a-Cash is an exciting Tic-Tac-Toe variant that adds a layer of strategy and complexity. Players aim to align three coins in a row on the top layer of a 3x3 grid. Coins come in three sizes, and smaller ones can stack on larger ones, allowing for dynamic gameplay and strategic depth.
+Stack-a-Cash is an Tic-Tac-Toe variant that adds a layer of strategy and complexity. Players aim to align three coins in a row on the top layer of a 3x3 grid. Coins come in three sizes, and smaller ones can stack on larger ones, allowing for dynamic gameplay and strategic depth.
 
 ---
 
@@ -63,26 +63,7 @@ To run the application, follow these steps:
 
 ---
 
-## Development Notes
-
-- The project is structured with a focus on modularity and maintainability.
-- Contributions and improvements are welcome. Please follow the guidelines in the `CONTRIBUTING.md` file.
-
----
-
 ## Authors
 
 - **Matúš Bárány**  
   [GitHub Profile](https://github.com/matusbarany04)
-
----
-
-## License
-
-This project is licensed under the MIT License. See the `LICENSE` file for details.
-
----
-
-## Acknowledgments
-
-- Thanks to the open-source community for providing resources and inspiration.
