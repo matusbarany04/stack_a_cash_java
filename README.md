@@ -1,6 +1,6 @@
 # Stack-a-Cash
 
-Stack-a-Cash is an Tic-Tac-Toe variant that adds a layer of strategy and complexity. Players aim to align three coins in a row on the top layer of a 3x3 grid. Coins come in three sizes, and smaller ones can stack on larger ones, allowing for dynamic gameplay and strategic depth.
+Stack-a-Cash is a Tic-Tac-Toe variant that adds a layer of strategy and complexity. Players aim to align three coins in a row on the top layer of a 3x3 grid. Coins come in three sizes, and smaller ones can stack on larger ones, allowing for dynamic gameplay and strategic depth.
 
 ---
 
